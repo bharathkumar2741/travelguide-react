@@ -1,0 +1,9 @@
+.bg-card {
+  padding: 10px;
+  width: 40%;
+  margin: 10px;
+}
+.bgs {
+  flex-wrap: wrap;
+   margin: 10px;
+}
